@@ -1,7 +1,9 @@
 body {
     text-align: center;
 }
-
+#Home{
+text-align: center;    
+}
 .img2 {
     width: 400px;
     height: 400px;
@@ -47,3 +49,20 @@ img {
 img:hover {
     transform: scale(0.9);
 }
+.container
+{
+    text-align: center;
+}
+.carousel-inner p {
+margin-bottom: 15px;
+margin-top: 15px;
+color: aqua;
+font-size: 20px;    
+}
+#Mycarousel{
+background-color: red;
+}
+#Mycarousel img{
+height: 300px;
+margin-top: 30px;    
+}    
